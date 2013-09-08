@@ -1,6 +1,9 @@
 PreLinked
 =========
-> PreLinked combines the job search features of Indeed.com, with the power of your LinkedIn network to show you the best people to contact for the job. http://prelinked.jit.su/
+
+PreLinked combines the job search features of Indeed.com, with the power of your LinkedIn network to show you the best people to contact for the job. 
+
+Live at [PreLinked](http://prelinked.nodejitsu.com)
 
 ### About
 
@@ -15,7 +18,7 @@ This is a 2 week group project with four engineers: Stephen, Barry, Hao and myse
 
 
 #### Back-end work sample:
-* Sorting: [https://github.com/shaohua/PreLinked/blob/master/backend/controllers/jobsSorted.js]
+* Sorting: [sorting controller] (https://github.com/shaohua/PreLinked/blob/master/backend/controllers/jobsSorted.js)
 
 ### Don't Be Just Another Resume. Get PreLinked
 
