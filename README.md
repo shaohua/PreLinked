@@ -17,9 +17,6 @@ This is a 2 week group project with four engineers: Stephen, Barry, Hao and myse
 #### Back-end work sample:
 * Sorting: [https://github.com/shaohua/PreLinked/blob/master/backend/controllers/jobsSorted.js]
 
-### PreLinked
-
-
 ### Don't Be Just Another Resume. Get PreLinked
 
 Finding a job is tough, and can make you feel like just another piece of paper in a sea of resumes. 
